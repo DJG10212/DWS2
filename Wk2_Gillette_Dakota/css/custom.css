@@ -61,7 +61,7 @@ padding-top:60px
 
 
 .jumbotron {
-    background-image: url(http://placehold.it/1903x572);
+   	background-image: url(../img/jumbotron.jpg);
 	background-size:cover;
 	color:#222222;
 	margin-top:10px;
